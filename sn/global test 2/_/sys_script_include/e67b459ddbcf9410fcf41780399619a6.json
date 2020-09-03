@@ -1,0 +1,24 @@
+{
+  "access": "package_private",
+  "active": true,
+  "api_name": "global.gu",
+  "caller_access": null,
+  "client_callable": false,
+  "description": null,
+  "name": "gu",
+  "script": {
+    "____see": "sn/global test 2/Script Include/active_true/global.gu.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-09-03 13:00:14",
+  "sys_id": "e67b459ddbcf9410fcf41780399619a6",
+  "sys_mod_count": 1,
+  "sys_name": "gu",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "7912309ddb8f9410fcf4178039961927",
+  "sys_update_name": "sys_script_include_e67b459ddbcf9410fcf41780399619a6",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-09-03 13:00:29"
+}
